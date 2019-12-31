@@ -34,3 +34,4 @@ fields:
 pages:
 - "./homepage.md"
 - index.md
+- test.md
